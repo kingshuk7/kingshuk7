@@ -23,9 +23,4 @@ Experienced Linux/UNIX System Administrator with a passion for optimizing infras
 - **Configuration Management**: Puppet
 - **Other Skills**: System Administration, Troubleshooting, IT Operations, Database Administration, Mail Servers, ElasticSearch, HTML/CSS
 
-## 📌 Current Projects
-- 🛠️ Deploying MinIO in Kubernetes
-- 🔧 Managing WebSocket connections in a social network project
-- 🚀 Improving server automation using Bash and Python
-
 💡 Always open to learning, collaborating, and tackling new challenges!
