@@ -5,7 +5,6 @@ Experienced Linux/UNIX System Administrator with a passion for optimizing infras
 - Server management and deployment
 - Security hardening and compliance
 - Virtualization and containerization
-- Monitoring and troubleshooting of critical a system issues  
 - Network configuration and troubleshooting
 - Bash and Python scripting for automation
 
@@ -21,6 +20,11 @@ Experienced Linux/UNIX System Administrator with a passion for optimizing infras
 - **Cloud & Infrastructure**: AWS, Microsoft Azure, Terraform, Ansible
 - **Networking & Security**: VPN, Firewalls, DNS, Cybersecurity
 - **Configuration Management**: Puppet
-- **Other Skills**: System Administration, Troubleshooting, IT Operations, Database Administration, Mail Servers, ElasticSearch, HTML/CSS
+- **Hosting Control Panel**: Vesta Panel, WHM Cpanel
+- **Mail Servers**: Zimbra, Postfix, Dovecot, Exim, Roundcube, SquirrelMail, Barracuda Spam Firewall
+
+
+## 📫 Connect With Me
+- LinkedIn: [Kingshuk Chowdhury](https://www.linkedin.com/in/kingshuk-chowdhury)
 
 💡 Always open to learning, collaborating, and tackling new challenges!
